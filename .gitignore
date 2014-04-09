@@ -16,3 +16,6 @@
 /tmp
 
 /coverage/
+
+/client/node_modules/
+/client/app/bower_components/
